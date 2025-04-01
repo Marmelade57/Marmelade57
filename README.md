@@ -30,4 +30,4 @@
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Marmelade57&theme=date_night&hide_border=false)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Marmelade57&theme=transparent&hide_border=true&locale=fr&stroke=EB9DE6&currStreakNum=B64FEB&ring=EB9DE6&fire=EB9DE6&sideNums=B64FEB&sideLabels=D296EB&currStreakLabel=D296EB&excludeDaysLabel=00000000)](https://git.io/streak-stats)<br/>
