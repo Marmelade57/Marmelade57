@@ -154,9 +154,3 @@
   <p>Nombre de visiteurs :</p>
   <img src="https://count.getloli.com/@:Marmelade57?theme=3d-num&padding=3&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marmelade57/Marmelade57/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marmelade57/Marmelade57/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marmelade57/Marmelade57/output/pacman-contribution-graph.svg">
-</picture>
